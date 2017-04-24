@@ -1,2 +1,5 @@
 # hello-world
-training repository
+
+hi earth!
+
+i like cake and pizza
